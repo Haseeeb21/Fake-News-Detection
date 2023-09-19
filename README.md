@@ -3,7 +3,7 @@
 2 different techniques are used for training the models on the given data. The code is self explanable.
 Load the datasets and train the model.
 
-### BERT
+## BERT
 
 It uses it's own built in functions for easyness.
 
@@ -25,13 +25,16 @@ It uses it's own built in functions for easyness.
 
 
 
-### LSTM
+## LSTM
 
 Different parameters give different results.
 
 #### Training Model
 
 ![Screenshot 2023-06-04 075142](https://github.com/Haseeeb21/Fake-News-Detection/assets/91841622/6ac988a3-a56a-40eb-ac95-116cf166a86c)
+
+![Screenshot 2023-06-03 212240](https://github.com/Haseeeb21/Fake-News-Detection/assets/91841622/fd64599d-9370-483f-8f67-e598d0fba2c2)
+
 
 #### Testing on User-Input data
 
