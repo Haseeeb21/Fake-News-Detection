@@ -7,7 +7,7 @@ Load the datasets and train the model.
 
 It uses it's own built in functions for easyness.
 
-#### Training Model
+#### Training Model. 
 
 ![Screenshot 2023-06-04 131223](https://github.com/Haseeeb21/Fake-News-Detection/assets/91841622/0a62315b-6c53-4a4b-90c8-996acc3df6d8)
 
